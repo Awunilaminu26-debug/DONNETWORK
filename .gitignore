@@ -3,3 +3,44 @@
 *.int
 *.lk
 *.zip
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>My Blog</h1>
+    <p>Sharing stories, ideas, and inspiration</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<main>
+    <section class="blog-post">
+        <h2>My First Post</h2>
+        <p class="date">May 2026</p>
+        <p>Welcome to my blog! This is where I share my thoughts and stories.</p>
+    </section>
+
+    <section class="blog-post">
+        <h2>Another Story</h2>
+        <p class="date">May 2026</p>
+        <p>This is another interesting post. Stay tuned for more!</p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 My Blog</p>
+</footer>
+
+</body>
+</html>
